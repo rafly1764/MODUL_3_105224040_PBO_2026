@@ -9,11 +9,11 @@ public class PostTest {
         int jumlah;
 
         do {
-            System.out.println("=== MENU ATM ===");
-            System.out.println("1. Cek Saldo");
-            System.out.println("2. Setor Tunai");
-            System.out.println("3. Tarik Tunai");
-            System.out.println("4. Keluar");
+            System.out.println("MENU ATM");
+            System.out.println("1.Cek Saldo");
+            System.out.println("2.Setor Tunai");
+            System.out.println("3.Tarik Tunai");
+            System.out.println("4.Keluar");
             System.out.print("Pilih menu: ");
 
             pilihan = input.nextInt();
